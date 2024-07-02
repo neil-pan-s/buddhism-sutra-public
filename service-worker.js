@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "precache-manifest.da225d00b08d0d1ca1f021c04d3f7610.js"
+  "precache-manifest.a080cfe8f9de7e0f4ad7104148acd2bc.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "buddhism-sutra"});
